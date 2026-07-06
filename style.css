@@ -1,0 +1,13 @@
+.user{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    flex-derection: row;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(93, 44, 44);
+    margin: 10px;
+    border: 2px;
+}
